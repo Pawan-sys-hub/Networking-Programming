@@ -4,7 +4,7 @@ import java.net.UnknownHostException;
 public class SimpleDNSLookup {
     public static void main(String[] args) {
         // Define the host to resolve
-        String hostName = "google.com";
+        String hostName = "www.pawan-pokharel.com.np";
 
         try {
             // Resolve the host to an array of IP addresses
